@@ -6,4 +6,9 @@ I work in the Mathematics Dept. as a student worker, and that's where I spend mo
 
 https://docs.python.org/3/library/random.html (random number generation - how to make dice?)
 
+One die will have repeat values:
+
+1,1,2,3,4,5
+1,2,3,4,5,6
+
 
